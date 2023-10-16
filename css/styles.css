@@ -1,0 +1,21 @@
+/* Set the background color for the entire body */
+body {
+    background-color: #4b5320; /* Olive Drab (Green Army Color) */
+    display:block;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    font-size: 25px ;
+  }
+  
+  /* Style the class "bold" to make text bold with an underline */
+  .bold {
+    font-weight: bold;
+    text-decoration: underline;
+    color: #556b2f; /* Dark Olive Green */
+  }
+  
+  .upline{
+    text-decoration: overline;
+  }
