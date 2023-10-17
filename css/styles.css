@@ -19,3 +19,7 @@ body {
   .upline{
     text-decoration: overline;
   }
+
+  img{
+    float: center;
+  }
